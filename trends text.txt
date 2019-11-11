@@ -1,0 +1,230 @@
+trending technologies 2019	
+In present IT,it is very difficult to determine one particular technology as the best among others,because everyday is a evolution in computing and every single paves a way for a new technology.
+
+But,according to the stack overflow popularity,the below technologies have good growing opportunities:
+
+
+1. artificial intelligence/machine learning:
+     Artificial intelligence (AI) is the ability of a computer program or a machine to think and learn.
+Artificial intelligence (AI) is an area of computer science that emphasizes the creation of intelligent machines that work and react like humans.
+
+Artificial intelligence is a branch of computer science that aims to create intelligent machines. It has become an essential part of the technology industry.
+Some of the activities computers with artificial intelligence are designed for include:
+
+Speech recognition
+Learning
+Planning
+Problem solving
+The scope is wider and undefined but the biggest uses are:
+
+Automation enhancements in software and business processes.
+Smart forecasting in weather, disasters, its aftermath, etc.
+Decreasing human dependency for task performance.
+Minimal to practically Zero scope or errors
+Smart Manufacturing
+Enhanced customer experience
+Digital Marketing
+Next generation engagement strategies
+
+tearms of AI technology
+Automation
+Machine learning
+Natural language processing (NLP)
+Robotics
+
+KEY TAKEAWAYS
+1 Artificial intelligence refers to the simulation of human intelligence in machines.
+2 The goals of artificial intelligence include learning, reasoning, and perception.
+3 AI is being used across different industries including finance and healthcare.
+ 
+
+    Top 5 trends of Artificial Intelligence (AI) 2019	
+ *. Deep learning
+ *. Facial Recognition
+ *. Privacy and policy
+ *. Privacy and policy
+ *. Cloud
+2. Internet of Things (IoT)
+    A network of Internet connected objects able to collect and exchange data.
+
+    The internet of things (IoT) is a computing concept that describes the idea of everyday physical objects being connected to the internet and being able to identify themselves to other devices. 
+  In the Internet of Things, all the things that are being connected to the internet can be put into three categories:
+
+     1 Things that collect information and then send it.
+     2 Things that receive information and then act on it.
+     3 Things that do both.	 
+ 
+
+    IoT describes a world where just about anything can be connected and communicate in an intelligent fashion
+ why iot: IoT provides businesses and people better insight into and control over the 99 percent of objects and environments that remain beyond the reach of the internet. And by doing so, IoT allows businesses and people to be more connected to the world around them and to do more meaningful, higher-level work
+   We need to empower computers with their own means of gathering information, so they can see, hear and smell the world for themselves, in all its random glory. This is precisely what IoT platforms does for us. It enables devices/objects to observe, identify and understand a situation or the surroundings without being dependent on human help.
+   IoT platforms can help organizations reduce cost through improved process efficiency, asset utilization and productivity
+   The growth and convergence of data, processes and things on the internet would make such connections more relevant and important, creating more opportunities for people, businesses and industries.
+
+  ex:
+    sensor technologies, 
+    wireless technologies 
+    QR codes
+3. Augmented Reality (AR)/Virtual Reality (VR):	
+             Augmented and virtual reality have one big thing in common. They both have the remarkable ability to alter our perception of the world. Where they differ, is the perception of our presence
+
+
+  AR:  AR is a type of interactive, reality-based display environment that takes the capabilities of computer generated display, sound, text and effects to enhance the user's real-world experience.
+
+       Augmented Reality is used in entertainment, military training, engineering design, robotics, manufacturing and other industries
+
+      Augmented reality gives you data on the things that you can see. It enhances the screen by adding elements to the real world.
+
+Real-World Examples:
+
+     AR applications can become the backbone of the education industry. Apps are being developed    which embed text, images, and videos, as well as real–world curriculums.
+     Printing and advertising industries are developing apps to display digital content on top of    real world magazines.
+     With help of AR, travelers can access real-time information of historical places just by    pointing their camera viewfinder to subjects.
+     AR is helpful in development of translation apps that can interpret text in other languages    for you.
+     Location based AR apps are major forms of AR apps. Users can access information about nearest    places relative to current location. They can get information about places and choose based on    user reviews.
+     With the help of Unity 3d Engine, AR is being used to develop real-time 3D Games.
+  Augmented Reality is a technology that has changed the face of smartphone apps and gaming.
+   AR provides games, interior furnishing planners, navigation apps, workshop instructions, and much more
+
+
+some applications of AR are:
+
+     AR is being used to aid research in archaeology. AR can be used to recreate different structures and overlay them on the real environment so that researchers can study it correctly.
+     AR applications in smartphones include Global Positioning System (GPS) to locate the person’s location and its phone’s inbuilt compass to find device orientation.
+     Augmented reality can be used in the field of tourism to enrich visitor’s experience during visits like the Eiffel tower has an AR app that can show you it looked
+
+ VR : Virtual reality (VR) means experiencing things through our computers that don't really exist.
+Virtual reality is the term used to describe a three-dimensional, computer generated environment which can be explored and interacted with by a person
+    The user can only experience the digital 3D world with aids such as VR glasses
+
+Key Elements of a Virtual Reality Experience
+1. Virtual World
+A virtual world is a three-dimensional environment that is often, but not necessarily, realized through a medium (i.e. rendering, display, etc.) where one can interact with others and create objects as part of that interaction. In a virtual world, visual perspectives are responsive to changes in movement and interactions mimic those experienced in the real world.
+2. Immersion
+Virtual reality immersion is the perception of being physically present in a non-physical world. It encompasses the sense of presence, which is the point where the human brain believes that is somewhere it is really not, and is accomplished through purely mental and/or physical means. The state of total immersion exists when enough senses are activated to create the perception of being present in a non-physical world. Two common types of immersion include:
+
+Mental Immersion – A deep mental state of engagement, with suspension of disbelief that one is in a virtual environment.
+Physical Immersion – Exhibited physical engagement in a virtual environment, with suspension of disbelief that one is in a virtual environment.
+3. Sensory Feedback
+Virtual reality requires as many of our senses as possible to be simulated. These senses include vision (visual), hearing (aural), touch (haptic), and more. Properly stimulating these sense requires sensory feedback, which is achieved through integrated hardware and software (also known as inputs). Examples of this hardware and inputs are discussed below as key components to a virtual reality system, which include head mounted displays (HMD), special gloves or hand accessories, and hand controls.
+
+4. Interactivity
+The element of interaction is crucial for virtual reality experiences to provide users with enough comfort to naturally engage with the virtual environment. If the virtual environment responds to a user’s action in a natural manner, excitement and senses of immersion will remain. If the virtual environment cannot respond quick enough, the human brain will quickly notice and the sense of immersion will diminish. Virtual environment responses to interaction can include the way a participant moves around or changes in their viewpoint; generally through movements of their head.
+
+     here are a wide variety of applications for virtual reality which include:
+
+Architecture
+Sports
+Medicine
+The Arts
+Entertainment
+   
+4. Blockchain: 
+	The Blockchain is an encrypted, distributed database that records data
+
+	An open blockchain network has no central authority — it is the very definition of a democratized system. Since it is a shared and immutable ledger, the information in it is open for anyone and everyone to see.
+
+
+    The Three Pillars of Blockchain Technology:
+
+   The three main properties of Blockchain Technology which has helped it gain widespread acclaim are as follows:
+
+Decentralization
+Transparency
+Immutability
+	
+	Benefits of Blockchain Technology
+• Increased time effectiveness due to the real-time transactions
+• Direct Transactions eliminate the overheads and intermediary costs
+• Reduced risks related to cybercrimes, frauds and tampering
+• More transparent processes with a proper record creation and tracking
+• Highly secure due to cryptographic and decentralized Blockchain protocols
+
+	Initially, used for Bitcoin and other cryptocurrencies blockchain has now found use cases in several industries including finance, real estate, and health.
+	Blockchain technology can be utilized in multiple industries including Financial Services, Healthcare, Government, Travel and Hospitality, Retail and CPG.
+
+5. Business Intelligence:
+
+	Business Intelligence is a set of processes, architectures, and technologies that convert raw data into meaningful information that drives profitable business actions.
+	Business intelligence  represents the tools and systems that play a key role in the strategic planning process    within a corporation. These BI systems allow a company to gather, store, access and analyze corporate data to aid in decision-making.
+Benefits and Advantages of Business Intelligence Systems:
+⦁	Faster reporting, analysis or planning.
+⦁	More accurate reporting, analysis or planning.
+⦁	Better business decisions.
+⦁	Improved data quality.
+⦁	Improved employee satisfaction.
+⦁	Improved operational efficiency.
+⦁	Improved customer satisfaction.
+⦁	Increased competitive advantage.
+	BI software applications are used to gather data from data warehouses or data marts, which are separate yet linked BI architectural stack segments used for the preparation and use of data.
+	BI tools perform data analysis and create reports, summaries, dashboards, maps, graphs, and charts to provide users with detailed intelligence about the nature of the business.
+
+6. DevOps:
+	The word 'DevOps' is a combination of two words 'development' and 'operations.'
+     DevOps is a culture which promotes collaboration between Development and Operations Team to deploy code to production faster in an automated & repeatable way.
+    DevOps helps to increases an organization's speed to deliver applications and services. It allows organizations to serve their customers better and compete more strongly in the market.
+
+    Its allows Agile Development Teams to implement Continuous Integration and Continuous Delivery. This helps them to launch products faster into the market.
+
+why devops:
+
+1. Predictability: DevOps offers significantly lower failure rate of new releases
+
+2. Reproducibility: Version everything so that earlier version can be restored anytime.
+
+3. Maintainability: Effortless process of recovery in the event of a new release crashing or disabling the current system.
+
+4. Time to market: DevOps reduces the time to market up to 50% through streamlined software delivery. This is particularly the case for digital and mobile applications.
+
+5. Greater Quality: DevOps helps the team to provide improved quality of application development as it incorporates infrastructure issues.
+
+6. Reduced Risk: DevOps incorporates security aspects in the software delivery lifecycle. It helps in reduction of defects across the lifecycle.
+
+7. Resiliency: The Operational state of the software system is more stable, secure, and changes are auditable.
+
+8. Cost Efficiency: DevOps offers cost efficiency in the software development process which is always an aspiration of IT companies' management.
+
+9. Breaks larger code base into small pieces: DevOps is based on the agile programming method. Therefore, it allows breaking larger code bases into smaller and manageable chunks.
+ A brief information about the Continuous DevOps life-cycle:
+1. Development
+
+In this DevOps stage the development of software takes place constantly. In this phase, the entire development process is separated into small development cycles. This benefits DevOps team to speed up software development and delivery process.
+
+2. Testing
+
+QA team use tools like Selenium to identify and fix bugs in the new piece of code.
+
+3. Integration
+
+In this stage, new functionality is integrated with the prevailing code, and testing takes place. Continuous development is only possible due to continuous integration and testing.
+
+4. Deployment
+
+In this phase, the deployment process takes place continuously. It is performed in such a manner that any changes made any time in the code, should not affect the functioning of high traffic website.
+
+5. Monitoring
+
+In this phase, operation team will take care of the inappropriate system behavior or bugs which are found in production.
+
+DevOps Principles:
+Customer-Centric Action: DevOps team must take customer-centric action for that they should constantly invest in products and services.
+
+2. End-To-End Responsibility: The DevOps team need to provide performance support until they become end-of-life. This enhances the level of responsibility and the quality of the products engineered.
+
+3. Continuous Improvement: DevOps culture focuses on continuous improvement to minimize waste. It continuously speeds up the improvement of product or services offered.
+
+4. Automate everything: Automation is a vital principle of DevOps process. This is not only for the software development but also for the entire infrastructure landscape.
+
+5. Work as one team: In the DevOps culture role of the designer, developer, and tester are already defined. All they needed to do is work as one team with complete collaboration.
+
+6. Monitor and test everything: It is very important for DevOps team to have a robust monitoring and testing procedures.
+
+ some devops tools are
+1. Gradle	
+2. Git
+3. Jenkins
+4. Docker
+5. Kubernetes 
+6. puppet
+7. Ansible
+8. Nagios
